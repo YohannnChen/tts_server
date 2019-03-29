@@ -1,7 +1,6 @@
 # Environment
 ```sh
-$ pip install baidu-aip
-$ pip install playsound
+$ pip install baidu-aip playsound
 ```
 
 
@@ -20,7 +19,7 @@ $ rosrun tts_server tts_client.py 请避让
 ```
 “请避让.mp3” 将会存储在默认路径中，同时会播放该mp3文件
 
-# 注意修改 tts_server.py中mp3文件的存储路径
+
 
 
 
